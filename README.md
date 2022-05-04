@@ -1,21 +1,13 @@
 
 
-<!--
-**urmila-24/urmila-24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <h1 align="center">Hi 👋, I'm Urmila Rathore</h1>
 <h3 align="center">A full stack developer from IIIT Vadodara</h3>
+
+- 🔭 I’m currently working on [CrackYourPlacement-Challenge](https://github.com/urmila-24/CrackYourPlacement-Challenge)
+
+- 🌱 I’m currently learning **React js**
+
+- 🌱 I’m currently developing my portfolio [MyPortfolio](https://github.com/urmila-24/MyPortfolio)
 
 - 📫 How to reach me **rathoreurmila238@gmail.com**
 
